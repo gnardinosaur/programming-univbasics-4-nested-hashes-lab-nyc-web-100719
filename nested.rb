@@ -79,8 +79,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
-    
+  new_programmer_hash
 end
 
 def changing_alan
